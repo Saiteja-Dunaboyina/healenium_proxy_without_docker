@@ -1,0 +1,17 @@
+{
+  "user" :"standard_user",
+  "lockedUser" :"locked_out_user",
+  "password" :"secret_sauce",
+  "headerText" : "Swag Labs",
+  "firstname" : "Harry",
+  "lastname" : "Potter",
+  "pinCode" : "533267",
+  "sideBarEle" : [
+    "All Items",
+    "About",
+    "Logout",
+    "Reset App State"
+  ],
+  "filterText": "za",
+  "productText": "Test.allTheThings() T-Shirt (Red)"
+}
